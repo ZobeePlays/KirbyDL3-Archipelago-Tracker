@@ -1,0 +1,281 @@
+[
+    {
+        "name": "Level 2",
+        "children": [
+            {
+                "name": "2-1",
+                "access_rules": [
+                    //"11"
+                ],
+                "sections": [
+                    {
+                        "name": "Ripple Field 1 - Complete",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ripple Field 1 - Kamuribana",
+                        "item_count": 1,
+                        "access_rules": [
+                            "Pitch,Clean"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "World2",
+                        "x": 68,
+                        "y": 149
+                    }
+                ]
+            },            
+            {
+                "name": "2-2",
+                "access_rules": [
+                    //"11"
+                ],
+                "sections": [
+                    {
+                        "name": "Ripple Field 2 - Complete",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ripple Field 2 - Bakasa",
+                        "item_count": 1,
+                        "access_rules": [
+                            "Kine,Parasol"
+                        ]
+                    },
+                    {
+                        "name": "Ripple Field 2 - 1-Up (Currents)",
+                        "item_count": 1,
+                        "chest_opened_img": "images/1Up.png",
+                        "visibility_rules":[
+                            "Consumables"
+                        ],
+                        "access_rules": [
+                            "Kine"
+                        ]
+                    },
+                    {
+                        "name": "Ripple Field 2 - Maxim Tomato (Currents)",
+                        "item_count": 1,
+                        "chest_opened_img": "images/MaximTomato.png",
+                        "visibility_rules":[
+                            "Consumables"
+                        ],
+                        "access_rules": [
+                            "Kine"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "World2",
+                        "x": 92,
+                        "y": 149
+                    }
+                ]
+            },            
+            {
+                "name": "2-3",
+                "access_rules": [
+                    //"11"
+                ],
+                "sections": [
+                    {
+                        "name": "Ripple Field 3 - Complete",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ripple Field 3 - Elieel",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ripple Field 3 - 1-Up (Cutter/Spark)",
+                        "item_count": 1,
+                        "chest_opened_img": "images/1Up.png",
+                        "visibility_rules":[
+                            "Consumables"
+                        ],
+                        "access_rules": [
+                            "Cutter",
+                            "Spark"
+                        ]
+                    },
+                    {
+                        "name": "Ripple Field 3 - Maxim Tomato (Cove)",
+                        "item_count": 1,
+                        "visibility_rules":[
+                            "Consumables"
+                        ],
+                        "access_rules": [
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "World2",
+                        "x": 116,
+                        "y": 149
+                    }
+                ]
+            },            
+            {
+                "name": "2-4",
+                "access_rules": [
+                    //"11"
+                ],
+                "sections": [
+                    {
+                        "name": "Ripple Field 4 - Complete",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ripple Field 4 - Mama Toad",
+                        "item_count": 1,
+                        "access_rules": [
+                            "Needle"
+                        ]
+                    },
+                    {
+                        "name": "Ripple Field 4 - Maxim Tomato (Dark)",
+                        "item_count": 1,
+                        "chest_opened_img": "images/1Up.png",
+                        "visibility_rules":[
+                            "Consumables"
+                        ]
+                    },
+                    {
+                        "name": "Ripple Field 4 - 1-Up (Stone)",
+                        "item_count": 1,
+                        "chest_opened_img": "images/1Up.png",
+                        "visibility_rules":[
+                            "Consumables"
+                        ],
+                        "access_rules":[
+                            "Stone"
+                        ]
+                    },
+                    {
+                        "name": "Ripple Field 4 - Maxim Tomato (Stone)",
+                        "item_count": 1,
+                        "visibility_rules":[
+                            "Consumables"
+                        ],
+                        "access_rules":[
+                            "Stone"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "World2",
+                        "x": 140,
+                        "y": 149
+                    }
+                ]
+            },            
+            {
+                "name": "2-5",
+                "access_rules": [
+                    //"11"
+                ],
+                "sections": [
+                    {
+                        "name": "Ripple Field 5 - Complete",
+                        "item_count": 1,
+                        "access_rules":[
+                            "Kine"
+                        ]
+                    },
+                    {
+                        "name": "Ripple Field 5 - Mama Pitch",
+                        "item_count": 1,
+                        "access_rules": [
+                            "Kine,Burning,Stone,Pitch"
+                        ]
+                    },
+                    {
+                        "name": "Ripple Field 5 - Maxim Tomato (Exit)",
+                        "item_count": 1,
+                        "visibility_rules":[
+                            "Consumables"
+                        ],
+                        "access_rules":[
+                            "Kine"
+                        ]
+                    },{
+                        "name": "Ripple Field 5 - 1-Up (Currents)",
+                        "item_count": 1,
+                        "chest_opened_img": "images/1Up.png",
+                        "visibility_rules":[
+                            "Consumables"
+                        ],
+                        "access_rules":[
+                            "Kine,Burning,Stone"
+                        ]
+                    },
+                    {
+                        "name": "Ripple Field 5 - Maxim Tomato (Currents)",
+                        "item_count": 1,
+                        "visibility_rules":[
+                            "Consumables"
+                        ],
+                        "access_rules":[
+                            "Kine,Burning,Stone"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "World2",
+                        "x": 164,
+                        "y": 149
+                    }
+                ]
+            },            
+            {
+                "name": "2-6",
+                "access_rules": [
+                    //"11"
+                ],
+                "sections": [
+                    {
+                        "name": "Ripple Field 6 - Complete",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ripple Field 6 - HB-002",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "World2",
+                        "x": 188,
+                        "y": 149
+                    }
+                ]
+            },
+            {
+                "name": "2-7",
+                "access_rules": [
+                    //"11"
+                ],
+                "sections": [
+                    {
+                        "name": "Ripple Field - Boss (Acro) Purified",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "World2",
+                        "x": 212,
+                        "y": 149
+                    }
+                ]
+            }
+        ]
+    }
+]
