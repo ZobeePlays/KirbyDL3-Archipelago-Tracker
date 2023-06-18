@@ -152,6 +152,14 @@
         "type": "toggle",
         "img": "images/GoMode.png",
         "codes": "gomode"
+    },
+    {
+        "name": "Stages Unlocked",
+        "type": "consumable",
+        "codes": "stages",
+        "min_quantity": 1,
+        "max_quantity": 35,
+        "img": "images/stages/11.png"
     }
 
 ]

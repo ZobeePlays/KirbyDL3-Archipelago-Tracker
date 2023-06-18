@@ -64,7 +64,7 @@
                         ]
                     },
                     {
-                        "name": "Grass Land 1 - 1-Up (Needle)",
+                        "name": "Grass Land 2 - 1-Up (Needle)",
                         "item_count": 1,
                         "chest_opened_img": "images/1Up.png",
                         "visibility_rules":[
