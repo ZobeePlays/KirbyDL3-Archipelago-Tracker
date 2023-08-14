@@ -16,5 +16,5 @@ ITEM_MAPPING = {
     [0x770013] = {"Nago", "toggle"},
     [0x770014] = {"ChuChu", "toggle"},
     [0x770015] = {"Pitch", "toggle"},
-    [0x770020] = {"Heart Star", "consumable"},
+    [0x770020] = {"HeartStar", "consumable"},
 }
