@@ -1,0 +1,17 @@
+{
+    "name": "Kirby's Dream Land 3 Archipelago Randomizer",
+    "game_name": "Kirby's Dream Land 3",
+    "author": "Silvris + ZobeePlays",
+    "package_uid": "KDL3_Silvris_AP",
+    "package_version": "1.5.0",
+    "platform": "snes",
+    "variants": {
+        "ap_map_tracker": {
+            "display_name": "Archipelago Map Tracker",
+            "flags": [
+                "sa1",
+                "ap"
+            ]
+        }
+    }
+}

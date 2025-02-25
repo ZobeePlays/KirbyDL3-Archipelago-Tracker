@@ -1,0 +1,24 @@
+{
+	"tabbed_maps_horizontal": {
+		"type": "tabbed",
+		"tabs": [
+			{
+				"title": "Popstar",
+				"content": {
+					"type": "map",
+					"maps": [
+						"Popstar"
+					]
+				}
+			},
+			{
+				"title": "Levels",
+				"content": {
+					"type": "tabbed",
+					"dock": "top",
+					"tabs": [
+						{"title": "Grassland 1",	"content": {"type": "map", "maps": ["Grass Land 1"]}},
+					]}}
+		]
+	}
+}

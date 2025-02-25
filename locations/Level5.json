@@ -1,0 +1,1283 @@
+[
+    {
+        "name": "Level 5",
+        "children": [
+            {
+                "name": "5-1",
+                "access_rules": [
+                    //"11"
+                ],
+                "sections": [
+                    {
+                        "name": "Iceberg 1 - Complete",
+                        "chest_unopened_img": "images/stages/51.png",
+                        "chest_opened_img": "images/stages/51Dim.png",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Iceberg 1 - Kogoesou",
+                        "chest_unopened_img": "images/ArchiCheck.png",
+                        "chest_opened_img": "images/ArchiCheckDim.png",
+                        "item_count": 1,
+                        "access_rules": [
+                            "Burning"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 1 - Star 1",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 1 - Star 2",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 1 - Star 3",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 1 - Star 4",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 1 - Star 5",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 1 - Star 6",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                ],
+                "map_locations": [
+                    {
+                        "map": "World5",
+                        "x": 68,
+                        "y": 149
+                    }
+                ]
+            },            
+            {
+                "name": "5-2",
+                "access_rules": [
+                    //"11"
+                ],
+                "sections": [
+                    {
+                        "name": "Iceberg 2 - Complete",
+                        "chest_unopened_img": "images/stages/52.png",
+                        "chest_opened_img": "images/stages/52Dim.png",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Iceberg 2 - Samus",
+                        "chest_unopened_img": "images/ArchiCheck.png",
+                        "chest_opened_img": "images/ArchiCheckDim.png",
+                        "item_count": 1,
+                        "access_rules": [
+                            "Ice"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 2 - Star 1",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 2 - Star 2",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 2 - Star 3",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 2 - Star 4",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 2 - Star 5",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 2 - Star 6",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 2 - Star 7",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 2 - Star 8",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 2 - Star 9",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 2 - Star 10",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 2 - Star 11",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 2 - Star 12",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 2 - Star 13",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 2 - Star 14",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 2 - Star 15",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 2 - Star 16",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 2 - Star 17",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 2 - Star 18",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 2 - Star 19",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                ],
+                "map_locations": [
+                    {
+                        "map": "World5",
+                        "x": 92,
+                        "y": 149
+                    }
+                ]
+            },            
+            {
+                "name": "5-3",
+                "access_rules": [
+                    //"11"
+                ],
+                "sections": [
+                    {
+                        "name": "Iceberg 3 - Complete",
+                        "chest_unopened_img": "images/stages/53.png",
+                        "chest_opened_img": "images/stages/53Dim.png",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Iceberg 3 - Chef Kawasaki",
+                        "chest_unopened_img": "images/ArchiCheck.png",
+                        "chest_opened_img": "images/ArchiCheckDim.png",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Iceberg 3 - Maxim Tomato (Ceiling)",
+                         "chest_unopened_img": "images/MaximTomato.png",
+                        "chest_opened_img": "images/MaximTomatoDim.png",
+                        "item_count": 1,
+                        "visibility_rules":[
+                            "Consumables"
+                        ],
+                        "access_rules": [
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 3 - Star 1",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 3 - Star 2",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 3 - Star 3",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 3 - Star 4",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 3 - Star 5",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 3 - Star 6",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 3 - Star 7",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 3 - Star 8",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 3 - Star 9",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 3 - Star 10",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 3 - Star 11",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 3 - Star 12",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 3 - Star 13",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 3 - Star 14",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 3 - Star 15",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 3 - Star 16",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 3 - Star 17",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 3 - Star 18",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 3 - Star 19",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 3 - Star 20",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 3 - Star 21",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                ],
+                "map_locations": [
+                    {
+                        "map": "World5",
+                        "x": 116,
+                        "y": 149
+                    }
+                ]
+            },            
+            {
+                "name": "5-4",
+                "access_rules": [
+                    //"11"
+                ],
+                "sections": [
+                    {
+                        "name": "Iceberg 4 - Complete",
+                        "chest_unopened_img": "images/stages/54.png",
+                        "chest_opened_img": "images/stages/54Dim.png",
+                        "item_count": 1,
+                        "access_rules":[
+                            "Burning"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 4 - Name",
+                        "chest_unopened_img": "images/ArchiCheck.png",
+                        "chest_opened_img": "images/ArchiCheckDim.png",
+                        "item_count": 1,
+                        "access_rules": [
+                            "Coo,ChuChu,Burning"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 4 - Star 1",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 4 - Star 2",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 4 - Star 3",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                ],
+                "map_locations": [
+                    {
+                        "map": "World5",
+                        "x": 140,
+                        "y": 149
+                    }
+                ]
+            },            
+            {
+                "name": "5-5",
+                "access_rules": [
+                    //"11"
+                ],
+                "sections": [
+                    {
+                        "name": "Iceberg 5 - Complete",
+                        "chest_unopened_img": "images/stages/55.png",
+                        "chest_opened_img": "images/stages/55Dim.png",
+                        "item_count": 1,
+                        "access_rules":[
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 5 - Shiro",
+                        "chest_unopened_img": "images/ArchiCheck.png",
+                        "chest_opened_img": "images/ArchiCheckDim.png",
+                        "item_count": 1,
+                        "access_rules": [
+                            "Nago"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 5 - 1-Up (Boulder)",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/1Up.png",
+                        "chest_opened_img": "images/1upDim.png",
+                        "visibility_rules":[
+                            "Consumables"
+                        ],
+                        "access_rules":[
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 5 - 1-Up (Floor)",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/1Up.png",
+                        "chest_opened_img": "images/1upDim.png",
+                        "visibility_rules":[
+                            "Consumables"
+                        ],
+                        "access_rules":[
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 5 - 1-Up (Peloo)",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/1Up.png",
+                        "chest_opened_img": "images/1upDim.png",
+                        "visibility_rules":[
+                            "Consumables"
+                        ],
+                        "access_rules":[
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 5 - Star 1",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 5 - Star 2",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 5 - Star 3",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 5 - Star 4",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 5 - Star 5",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 5 - Star 6",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 5 - Star 7",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 5 - Star 8",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 5 - Star 9",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 5 - Star 10",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 5 - Star 11",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 5 - Star 12",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 5 - Star 13",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 5 - Star 14",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 5 - Star 15",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 5 - Star 16",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 5 - Star 17",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 5 - Star 18",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 5 - Star 19",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 5 - Star 20",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 5 - Star 21",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 5 - Star 22",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 5 - Star 23",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 5 - Star 24",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 5 - Star 25",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 5 - Star 26",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 5 - Star 27",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 5 - Star 28",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 5 - Star 29",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 5 - Star 30",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 5 - Star 31",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 5 - Star 32",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 5 - Star 33",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 5 - Star 34",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                ],
+                "map_locations": [
+                    {
+                        "map": "World5",
+                        "x": 164,
+                        "y": 149
+                    }
+                ]
+            },            
+            {
+                "name": "5-6",
+                "access_rules": [
+                    //"11"
+                ],
+                "sections": [
+                    {
+                        "name": "Iceberg 6 - Complete",
+                        "chest_unopened_img": "images/stages/56.png",
+                        "chest_opened_img": "images/stages/56Dim.png",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Iceberg 6 - Angel",
+                        "chest_unopened_img": "images/ArchiCheck.png",
+                        "chest_opened_img": "images/ArchiCheckDim.png",
+                        "item_count": 1,
+                        "access_rules":[
+                            "Burning,Stone,Ice,Needle,Clean,Parasol,Spark,Cutter"
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 6 - 1-Up (Middle)",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/1Up.png",
+                        "chest_opened_img": "images/1upDim.png",
+                        "visibility_rules":[
+                            "Consumables"
+                        ],
+                        "access_rules":[
+                        ]
+                    },
+                    {
+                        "name": "Iceberg 6 - Maxim Tomato (Left)",
+                        "item_count": 1,
+                         "chest_unopened_img": "images/MaximTomato.png",
+                        "chest_opened_img": "images/MaximTomatoDim.png",
+                        "visibility_rules":[
+                            "Consumables"
+                        ],
+                        "access_rules":[
+                        ]
+                    },                    {
+                        "name": "Iceberg 6 - Star 1",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                ],
+                "map_locations": [
+                    {
+                        "map": "World5",
+                        "x": 188,
+                        "y": 149
+                    }
+                ]
+            },
+            {
+                "name": "5-7",
+                "access_rules": [
+                    //"11"
+                ],
+                "sections": [
+                    {
+                        "name": "Iceberg - Boss (Dedede) Purified",
+                        "chest_unopened_img": "images/stages/dedede.png",
+                        "chest_opened_img": "images/stages/dededeDim.png",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "World5",
+                        "x": 212,
+                        "y": 149
+                    }
+                ]
+            }
+        ]
+    }
+]

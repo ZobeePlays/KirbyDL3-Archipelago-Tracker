@@ -1,0 +1,2527 @@
+[
+    {
+        "name": "Level 4",
+        "children": [
+            {
+                "name": "4-1",
+                "access_rules": [
+                    //"11"
+                ],
+                "sections": [
+                    {
+                        "name": "Cloudy Park 1 - Complete",
+                        "chest_unopened_img": "images/stages/41.png",
+                        "chest_opened_img": "images/stages/41Dim.png",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cloudy Park 1 - Hibanamodoki",
+                        "chest_unopened_img": "images/ArchiCheck.png",
+                        "chest_opened_img": "images/ArchiCheckDim.png",
+                        "item_count": 1,
+                        "access_rules": [
+                            "Coo,Clean"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 1 - 1-Up (Shotzo)",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/1Up.png",
+                        "chest_opened_img": "images/1upDim.png",
+                        "visibility_rules":[
+                            "Consumables"
+                        ],
+                        "access_rules": [
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 1 - Maxim Tomato (Mariel)",
+                        "item_count": 1,
+                         "chest_unopened_img": "images/MaximTomato.png",
+                        "chest_opened_img": "images/MaximTomatoDim.png",
+                        "visibility_rules":[
+                            "Consumables"
+                        ],
+                        "access_rules": [
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 1 - Star 1",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 1 - Star 2",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 1 - Star 3",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 1 - Star 4",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 1 - Star 5",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 1 - Star 6",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 1 - Star 7",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 1 - Star 8",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 1 - Star 9",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 1 - Star 10",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 1 - Star 11",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 1 - Star 12",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 1 - Star 13",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 1 - Star 14",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 1 - Star 15",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 1 - Star 16",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 1 - Star 17",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 1 - Star 18",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 1 - Star 19",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 1 - Star 20",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 1 - Star 21",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 1 - Star 22",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 1 - Star 23",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                ],
+                "map_locations": [
+                    {
+                        "map": "World4",
+                        "x": 68,
+                        "y": 149
+                    }
+                ]
+            },            
+            {
+                "name": "4-2",
+                "access_rules": [
+                    //"11"
+                ],
+                "sections": [
+                    {
+                        "name": "Cloudy Park 2 - Complete",
+                        "chest_unopened_img": "images/stages/42.png",
+                        "chest_opened_img": "images/stages/42Dim.png",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Piyo & Keko",
+                        "chest_unopened_img": "images/ArchiCheck.png",
+                        "chest_opened_img": "images/ArchiCheckDim.png",
+                        "item_count": 1,
+                        "access_rules": [
+                            "Needle"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 1",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 2",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 3",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 4",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 5",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 6",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 7",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 8",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 9",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 10",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 11",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 12",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 13",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 14",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 15",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 16",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 17",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 18",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 19",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 20",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 21",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 22",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 23",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 24",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 25",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 26",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 27",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 28",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 29",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 30",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 31",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 32",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 33",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 34",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 35",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 36",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 37",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 38",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 39",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 40",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 41",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 42",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 43",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 44",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 45",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 46",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 47",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 48",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 49",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 50",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 2 - Star 51",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+					                    {
+                        "name": "Cloudy Park 2 - Star 52",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+					                    {
+                        "name": "Cloudy Park 2 - Star 53",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+					                    {
+                        "name": "Cloudy Park 2 - Star 54",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                ],
+                "map_locations": [
+                    {
+                        "map": "World4",
+                        "x": 92,
+                        "y": 149
+                    }
+                ]
+            },            
+            {
+                "name": "4-3",
+                "access_rules": [
+                    //"11"
+                ],
+                "sections": [
+                    {
+                        "name": "Cloudy Park 3 - Complete",
+                        "chest_unopened_img": "images/stages/43.png",
+                        "chest_opened_img": "images/stages/43Dim.png",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cloudy Park 3 - Mr. Ball",
+                        "chest_unopened_img": "images/ArchiCheck.png",
+                        "chest_opened_img": "images/ArchiCheckDim.png",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cloudy Park 3 - Star 1",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 3 - Star 2",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 3 - Star 3",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 3 - Star 4",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 3 - Star 5",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 3 - Star 6",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 3 - Star 7",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 3 - Star 8",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 3 - Star 9",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 3 - Star 10",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 3 - Star 11",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 3 - Star 12",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 3 - Star 13",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 3 - Star 14",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 3 - Star 15",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 3 - Star 16",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 3 - Star 17",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 3 - Star 18",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 3 - Star 19",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 3 - Star 20",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 3 - Star 21",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 3 - Star 22",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                ],
+                "map_locations": [
+                    {
+                        "map": "World4",
+                        "x": 116,
+                        "y": 149
+                    }
+                ]
+            },            
+            {
+                "name": "4-4",
+                "access_rules": [
+                    //"11"
+                ],
+                "sections": [
+                    {
+                        "name": "Cloudy Park 4 - Complete",
+                        "chest_unopened_img": "images/stages/44.png",
+                        "chest_opened_img": "images/stages/44Dim.png",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Mikarin & Kagami Mocchi",
+                        "chest_unopened_img": "images/ArchiCheck.png",
+                        "chest_opened_img": "images/ArchiCheckDim.png",
+                        "item_count": 1,
+                        "access_rules": [
+                            "Coo"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - 1-Up (Windy)",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/1Up.png",
+                        "chest_opened_img": "images/1upDim.png",
+                        "visibility_rules":[
+                            "Consumables"
+                        ],
+                        "access_rules":[
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Maxim Tomato (Windy)",
+                         "chest_unopened_img": "images/MaximTomato.png",
+                        "chest_opened_img": "images/MaximTomatoDim.png",
+                        "item_count": 1,
+                        "visibility_rules":[
+                            "Consumables"
+                        ],
+                        "access_rules":[
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 1",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Coo"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 2",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Coo"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 3",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Coo"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 4",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "Coo"
+                        ],
+                        "access_rules": [
+                            "Coo"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 5",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Coo"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 6",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Coo"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 7",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Coo"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 8",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Coo"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 9",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Coo"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 10",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Coo"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 11",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Coo"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 12",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Coo"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 13",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Coo"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 14",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Coo"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 15",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Coo"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 16",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Coo"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 17",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "v"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 18",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Coo"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 19",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Coo"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 20",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Coo"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 21",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Coo"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 22",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Coo"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 23",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Coo"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 24",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Coo"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 25",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Coo"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 26",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Coo"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 27",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Coo"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 28",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Coo"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 29",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Coo"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 30",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Coo"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 31",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 32",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 33",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 34",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 35",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 36",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 37",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 38",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 39",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 40",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 41",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 42",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 43",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 44",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 45",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 46",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 47",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 48",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 49",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 4 - Star 50",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                ],
+                "map_locations": [
+                    {
+                        "map": "World4",
+                        "x": 140,
+                        "y": 149
+                    }
+                ]
+            },            
+            {
+                "name": "4-5",
+                "access_rules": [
+                    //"11"
+                ],
+                "sections": [
+                    {
+                        "name": "Cloudy Park 5 - Complete",
+                        "chest_unopened_img": "images/stages/45.png",
+                        "chest_opened_img": "images/stages/45Dim.png",
+                        "item_count": 1,
+                        "access_rules":[
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 5 - Pick",
+                        "chest_unopened_img": "images/ArchiCheck.png",
+                        "chest_opened_img": "images/ArchiCheckDim.png",
+                        "item_count": 1,
+                        "access_rules": [
+                            "Rick"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 5 - Maxim Tomato (Pillars)",
+                         "chest_unopened_img": "images/MaximTomato.png",
+                        "chest_opened_img": "images/MaximTomatoDim.png",
+                        "item_count": 1,
+                        "visibility_rules":[
+                            "Consumables"
+                        ],
+                        "access_rules":[
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 5 - Star 1",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 5 - Star 2",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 5 - Star 3",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 5 - Star 4",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 5 - Star 5",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 5 - Star 6",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                ],
+                "map_locations": [
+                    {
+                        "map": "World4",
+                        "x": 164,
+                        "y": 149
+                    }
+                ]
+            },            
+            {
+                "name": "4-6",
+                "access_rules": [
+                    //"11"
+                ],
+                "sections": [
+                    {
+                        "name": "Cloudy Park 6 - Complete",
+                        "chest_unopened_img": "images/stages/46.png",
+                        "chest_opened_img": "images/stages/46Dim.png",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cloudy Park 6 - HB-007",
+                        "chest_unopened_img": "images/ArchiCheck.png",
+                        "chest_opened_img": "images/ArchiCheckDim.png",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cloudy Park 6 - 1-Up (Cutter)",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/1Up.png",
+                        "chest_opened_img": "images/1upDim.png",
+                        "visibility_rules":[
+                            "Consumables"
+                        ],
+                        "access_rules":[
+                            "Cutter"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 6 - Star 1",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 6 - Star 2",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 6 - Star 3",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 6 - Star 4",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 6 - Star 5",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 6 - Star 6",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 6 - Star 7",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 6 - Star 8",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 6 - Star 9",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 6 - Star 10",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 6 - Star 11",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 6 - Star 12",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 6 - Star 13",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 6 - Star 14",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 6 - Star 15",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 6 - Star 16",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 6 - Star 17",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 6 - Star 18",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Ice"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 6 - Star 19",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Ice"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 6 - Star 20",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Ice"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 6 - Star 21",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Ice"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 6 - Star 22",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Ice"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 6 - Star 23",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Ice"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 6 - Star 24",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Ice"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 6 - Star 25",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Ice"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 6 - Star 26",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Ice"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 6 - Star 27",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Ice"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 6 - Star 28",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Ice"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 6 - Star 29",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Ice"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 6 - Star 30",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Ice"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 6 - Star 31",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 6 - Star 32",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Cloudy Park 6 - Star 33",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                ],
+                "map_locations": [
+                    {
+                        "map": "World4",
+                        "x": 188,
+                        "y": 149
+                    }
+                ]
+            },
+            {
+                "name": "4-7",
+                "access_rules": [
+                    //"11"
+                ],
+                "sections": [
+                    {
+                        "name": "Cloudy Park - Boss (Ado) Purified",
+                        "chest_unopened_img": "images/stages/ado.png",
+                        "chest_opened_img": "images/stages/adoDim.png",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "World4",
+                        "x": 212,
+                        "y": 149
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,2351 @@
+[
+    {
+        "name": "Level 1",
+        "children": [
+            {
+                "name": "1-1",
+                "access_rules": [
+                    //"11"
+                ],
+                "sections": [
+                    {
+                        "name": "Grass Land 1 - Complete",
+                        "chest_unopened_img": "images/stages/11.png",
+                        "chest_opened_img": "images/stages/11Dim.png",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Grass Land 1 - Tulip",
+                        "chest_unopened_img": "images/ArchiCheck.png",
+                        "chest_opened_img": "images/ArchiCheckDim.png",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Grass Land 1 - 1-Up (Parasol)",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/1Up.png",
+                        "chest_opened_img": "images/1upDim.png",
+                        "visibility_rules":[
+                            "Consumables"
+                        ],
+                        "access_rules": [
+                            "Parasol"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 1 - Maxim Tomato (Spark)",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/MaximTomato.png",
+                        "chest_opened_img": "images/MaximTomatoDim.png",
+                        "visibility_rules":[
+                            "Consumables"
+                        ],
+                        "access_rules": [
+                            "Spark"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 1 - Star 1",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 1 - Star 2",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 1 - Star 3",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 1 - Star 4",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 1 - Star 5",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 1 - Star 6",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 1 - Star 7",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Cutter"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 1 - Star 8",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Cutter"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 1 - Star 9",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Cutter"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 1 - Star 10",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Cutter"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 1 - Star 11",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Parasol"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 1 - Star 12",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Parasol"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 1 - Star 13",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Parasol"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 1 - Star 14",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "Parasol"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 1 - Star 15",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 1 - Star 16",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 1 - Star 17",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 1 - Star 18",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 1 - Star 19",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 1 - Star 20",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 1 - Star 21",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 1 - Star 22",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 1 - Star 23",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                ],
+                "map_locations": [
+                    {
+                        "map": "World1",
+                        "x": 68,
+                        "y": 149
+                    }
+                ]
+            },            
+            {
+                "name": "1-2",
+                "access_rules": [
+                    //"11"
+                ],
+                "sections": [
+                    {
+                        "name": "Grass Land 2 - Complete",
+                        "chest_unopened_img": "images/stages/12.png",
+                        "chest_opened_img": "images/stages/12Dim.png",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Grass Land 2 - Muchimuchi",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/ArchiCheck.png",
+                        "chest_opened_img": "images/ArchiCheckDim.png",
+                        "access_rules": [
+                            "ChuChu"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 2 - 1-Up (Needle)",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/1Up.png",
+                        "chest_opened_img": "images/1upDim.png",
+                        "visibility_rules":[
+                            "Consumables"
+                        ],
+                        "access_rules": [
+                            "Needle"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 2 - Star 1",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Stone"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 2 - Star 2",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Burning"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 2 - Star 3",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Stone"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 2 - Star 4",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Stone"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 2 - Star 5",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 2 - Star 6",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 2 - Star 7",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 2 - Star 8",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 2 - Star 9",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Stone"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 2 - Star 10",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "Stone"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 2 - Star 11",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 2 - Star 12",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 2 - Star 13",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 2 - Star 14",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 2 - Star 15",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 2 - Star 16",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 2 - Star 17",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 2 - Star 18",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 2 - Star 19",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 2 - Star 20",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 2 - Star 21",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                ],
+                "map_locations": [
+                    {
+                        "map": "World1",
+                        "x": 92,
+                        "y": 149
+                    }
+                ]
+            },            
+            {
+                "name": "1-3",
+                "access_rules": [
+                    //"11"
+                ],
+                "sections": [
+                    {
+                        "name": "Grass Land 3 - Complete",
+                        "chest_unopened_img": "images/stages/13.png",
+                        "chest_opened_img": "images/stages/13Dim.png",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Grass Land 3 - Pitcherman",
+                        "chest_unopened_img": "images/ArchiCheck.png",
+                        "chest_opened_img": "images/ArchiCheckDim.png",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Grass Land 3 - 1-Up (Climb)",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/1Up.png",
+                        "chest_opened_img": "images/1upDim.png",
+                        "visibility_rules":[
+                            "Consumables"
+                        ],
+                        "access_rules": [
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 3 - Maxim Tomato (Climb)",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/MaximTomato.png",
+                        "chest_opened_img": "images/MaximTomatoDim.png",
+                        "visibility_rules":[
+                            "Consumables"
+                        ],
+                        "access_rules": [
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 3 - Star 1",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 3 - Star 2",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 3 - Star 3",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 3 - Star 4",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 3 - Star 5",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 3 - Star 6",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 3 - Star 7",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 3 - Star 8",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 3 - Star 9",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 3 - Star 10",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 3 - Star 11",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 3 - Star 12",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 3 - Star 13",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 3 - Star 14",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 3 - Star 15",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 3 - Star 16",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 3 - Star 17",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 3 - Star 18",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 3 - Star 19",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 3 - Star 20",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 3 - Star 21",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 3 - Star 22",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 3 - Star 23",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 3 - Star 24",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 3 - Star 25",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 3 - Star 26",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 3 - Star 27",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 3 - Star 28",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 3 - Star 29",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 3 - Star 30",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 3 - Star 31",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                ],
+                "map_locations": [
+                    {
+                        "map": "World1",
+                        "x": 116,
+                        "y": 149
+                    }
+                ]
+            },            
+            {
+                "name": "1-4",
+                "access_rules": [
+                    //"11"
+                ],
+                "sections": [
+                    {
+                        "name": "Grass Land 4 - Complete",
+                        "chest_unopened_img": "images/stages/14.png",
+                        "chest_opened_img": "images/stages/14Dim.png",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Grass Land 4 - Chao & Goku",
+                        "chest_unopened_img": "images/ArchiCheck.png",
+                        "chest_opened_img": "images/ArchiCheckDim.png",
+                        "item_count": 1,
+                        "access_rules": [
+                            "Stone"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - Maxim Tomato (Zebon Right)",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/MaximTomato.png",
+                        "chest_opened_img": "images/MaximTomatoDim.png",
+                        "visibility_rules":[
+                            "Consumables"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - 1-Up (Gordo)",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/1Up.png",
+                        "chest_opened_img": "images/1upDim.png",
+                        "visibility_rules":[
+                            "Consumables"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - Maxim Tomato (Gordo)",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/MaximTomato.png",
+                        "chest_opened_img": "images/MaximTomatoDim.png",
+                        "visibility_rules":[
+                            "Consumables"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - Maxim Tomato (Cliff)",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/MaximTomato.png",
+                        "chest_opened_img": "images/MaximTomatoDim.png",
+                        "visibility_rules":[
+                            "Consumables"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - Star 1",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - Star 2",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - Star 3",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - Star 4",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - Star 5",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - Star 6",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - Star 7",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - Star 8",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - Star 9",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - Star 10",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - Star 11",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - Star 12",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - Star 13",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - Star 14",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - Star 15",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - Star 16",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - Star 17",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - Star 18",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - Star 19",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - Star 20",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - Star 21",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - Star 22",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - Star 23",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - Star 24",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - Star 25",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - Star 26",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - Star 27",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - Star 28",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - Star 29",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - Star 30",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - Star 31",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - Star 32",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - Star 33",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - Star 34",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - Star 35",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - Star 36",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 4 - Star 37",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                ],
+                "map_locations": [
+                    {
+                        "map": "World1",
+                        "x": 140,
+                        "y": 149
+                    }
+                ]
+            },            
+            {
+                "name": "1-5",
+                "access_rules": [
+                    //"11"
+                ],
+                "sections": [
+                    {
+                        "name": "Grass Land 5 - Complete",
+                        "chest_unopened_img": "images/stages/15.png",
+                        "chest_opened_img": "images/stages/15Dim.png",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Grass Land 5 - Mine",
+                        "chest_unopened_img": "images/ArchiCheck.png",
+                        "chest_opened_img": "images/ArchiCheckDim.png",
+                        "item_count": 1,
+                        "access_rules": [
+                            "Kine"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 5 - Star 1",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 5 - Star 2",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 5 - Star 3",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 5 - Star 4",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 5 - Star 5",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 5 - Star 6",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 5 - Star 7",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 5 - Star 8",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 5 - Star 9",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 5 - Star 10",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 5 - Star 11",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 5 - Star 12",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 5 - Star 13",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 5 - Star 14",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 5 - Star 15",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 5 - Star 16",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 5 - Star 17",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 5 - Star 18",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 5 - Star 19",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 5 - Star 20",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 5 - Star 21",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 5 - Star 22",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 5 - Star 23",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 5 - Star 24",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 5 - Star 25",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 5 - Star 26",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 5 - Star 27",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 5 - Star 28",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 5 - Star 29",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                ],
+                "map_locations": [
+                    {
+                        "map": "World1",
+                        "x": 164,
+                        "y": 149
+                    }
+                ]
+            },            
+            {
+                "name": "1-6",
+                "access_rules": [
+                    //"11"
+                ],
+                "sections": [
+                    {
+                        "name": "Grass Land 6 - Complete",
+                        "chest_unopened_img": "images/stages/16.png",
+                        "chest_opened_img": "images/stages/16Dim.png",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Grass Land 6 - Pierre",
+                        "chest_unopened_img": "images/ArchiCheck.png",
+                        "chest_opened_img": "images/ArchiCheckDim.png",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Grass Land 6 - 1-Up (Tower)",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/1Up.png",
+                        "chest_opened_img": "images/1upDim.png",
+                        "visibility_rules":[
+                            "Consumables"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 6 - 1-Up (Falling)",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/1Up.png",
+                        "chest_opened_img": "images/1upDim.png",
+                        "visibility_rules":[
+                            "Consumables"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 6 - Star 1",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 6 - Star 2",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 6 - Star 3",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 6 - Star 4",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 6 - Star 5",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 6 - Star 6",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 6 - Star 7",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 6 - Star 8",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 6 - Star 9",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 6 - Star 10",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 6 - Star 11",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 6 - Star 12",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 6 - Star 13",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 6 - Star 14",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 6 - Star 15",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 6 - Star 16",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 6 - Star 17",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 6 - Star 18",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 6 - Star 19",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 6 - Star 20",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 6 - Star 21",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 6 - Star 22",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 6 - Star 23",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 6 - Star 24",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 6 - Star 25",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 6 - Star 26",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 6 - Star 27",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 6 - Star 28",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                    {
+                        "name": "Grass Land 6 - Star 29",
+                        "item_count": 1,
+                        "chest_unopened_img": "images/Star.png",
+                        "chest_opened_img": "images/StarDim.png",
+                        "visibility_rules":[
+                            "stars"
+                        ],
+                        "access_rules": [
+                            "stars"
+                        ]
+                    },
+                ],
+                "map_locations": [
+                    {
+                        "map": "World1",
+                        "x": 188,
+                        "y": 149
+                    }
+                ]
+            },
+            {
+                "name": "1-7",
+                "access_rules": [
+                    //"11"
+                ],
+                "sections": [
+                    {
+                        "name": "Grass Land - Boss (Whispy Woods) Purified",
+                        "chest_unopened_img": "images/stages/whispy.png",
+                        "chest_opened_img": "images/stages/whispyDim.png",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "World1",
+                        "x": 212,
+                        "y": 149
+                    }
+                ]
+            }
+        ]
+    }
+]
